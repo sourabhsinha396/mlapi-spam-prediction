@@ -1,0 +1,8 @@
+ml/spam_or_ham.ipynb
+ml/.ipynb_checkpoints/
+ml/.ipynb_checkpoints/spam_or_ham-checkpoint.ipynb
+ml/spam.csv
+ml/env
+
+__pycache__
+.*pyc
